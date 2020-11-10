@@ -11,25 +11,25 @@ There are 2 seperate components of Products and Wishlists which are not linked a
 ## Installation
 
 Start your mongo server using:
-'''
+```
 mongod
-'''
+```
 
 In another terminal, run
-'''
+```
 mongo
-'''
+```
 and then just insert the data.json (swag-shop-web) into your database.
 
 In swag-shop-api folder, run 
-'''
+```
 node server.js
-'''
+```
 
 In swag-shop-web folder, run
-'''
+```
 npm install
 npm start
-'''
+```
 
 And watch the chrome browser open up to show the webapp.
