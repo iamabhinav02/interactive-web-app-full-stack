@@ -1,0 +1,11 @@
+.product {
+    width: 20rem;
+}
+
+.image {
+    max-height: 15rem;
+}
+
+.custom-padding {
+    margin-bottom: 15px;
+}
